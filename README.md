@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101">
-    Oracle Data Platform Foundations Associate (2025)
+    Become an Oracle Data Platform Foundations Associate (2025)
   </a>
 </p>
 
