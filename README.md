@@ -49,6 +49,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101">
+    SQL and Relational Databases 101
+  </a>
+</p>
+
 ###
 
 <h2 align="left">Tech Stack</h2>
