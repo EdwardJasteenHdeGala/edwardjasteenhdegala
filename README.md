@@ -50,19 +50,19 @@
 </p>
 
 <p align="left">
-  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52868AF401C602FA0B89829F24B8448A80F868AE81EBCC60E229E3C86A0AF6FD">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=52868AF401C602FA0B89829F24B8448A80F868AE81EBCC60E229E3C86A0AF6FD">
     Oracle Cloud Infrastructure 2025 Certified Foundations Associate
   </a>
 </p>
 
 <p align="left">
-  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101](https://catalog-education.oracle.com/pls/certview/sharebadge?id=155A9A8E7EDCAF4E40160FDF7F9C788297F72231A0DF0F42D71CC3BFCD0A4A28">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=155A9A8E7EDCAF4E40160FDF7F9C788297F72231A0DF0F42D71CC3BFCD0A4A28">
     Oracle Data Platform 2025 Certified Foundations Associate
   </a>
 </p>
 
 <p align="left">
-  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101](https://catalog-education.oracle.com/pls/certview/sharebadge?id=726660A11463A25993D0936E433842093093B7C74D4CFD0E90F6B2E4EF4C7298">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=726660A11463A25993D0936E433842093093B7C74D4CFD0E90F6B2E4EF4C7298">
     Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
   </a>
 </p>
