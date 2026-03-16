@@ -69,6 +69,10 @@
 
 ###
 
+<h2 align="left">Projects</h2>
+
+
+
 <h2 align="left">Tech Stack</h2>
 
 <div align="left" style="margin-bottom:20px;">
@@ -90,6 +94,14 @@
 ###
 
 <h2 align="left">Socials</h2>
+
+<p align="left">
+  <a href="">
+    New Era University Library logger
+  </a>
+</p>
+
+###
 
 <div align="left">
   <a href="mailto:your-email@gmail.com" target="_blank">
