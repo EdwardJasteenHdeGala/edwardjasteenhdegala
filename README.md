@@ -12,16 +12,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  • Inquisitive and eager to learn<br>
-  • Passionate about personal growth and self-improvement<br>
-  • Analytical and detail-oriented problem solver<br>
-  • Thoughtful and deliberate in decision-making<br>
-  • Motivated by challenges and new experiences<br>
-  • Collaborative team player, open to learning from others<br>
-  • Adaptable and flexible in dynamic situations<br>
-  • Persistent and dedicated to completing tasks<br>
-  • Creative thinker who enjoys experimenting with new ideas<br>
-  • Committed to continuous learning and feedback
+  I am Edward Jasteen H. de Gala, a Bachelor of Science in Information Technology (BSIT) student at New Era University with a strong interest in coding and database management. I am inquisitive and eager to learn, with a passion for personal growth and continuous self-improvement. I approach problems with an analytical and detail-oriented mindset, allowing me to develop thoughtful and well-structured solutions. I am motivated by challenges and new experiences, and I value collaboration as an opportunity to learn from others. Adaptable in dynamic environments, I remain persistent and dedicated to completing tasks while continuously refining my skills and expanding my knowledge in the field of technology.
 </p>
 
 ###
@@ -44,34 +35,54 @@
 <h2 align="left">Certifications</h2>
 
 <p align="left">
-  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank" title="SQL and Relational Databases 101">
+  <a href="https://courses.cognitiveclass.ai/certificates/99905e0086784cfa87c132c03d7a224e" target="_blank">
     SQL and Relational Databases 101
   </a>
 </p>
 
 <p align="left">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=52868AF401C602FA0B89829F24B8448A80F868AE81EBCC60E229E3C86A0AF6FD">
+  <a href="https://courses.cognitiveclass.ai/certificates/7436a01c7d1b440184cd89a5761971e1" target="_blank">
+    NoSQL and DBaaS 101
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=52868AF401C602FA0B89829F24B8448A80F868AE81EBCC60E229E3C86A0AF6FD" target="_blank">
     Oracle Cloud Infrastructure 2025 Certified Foundations Associate
   </a>
 </p>
 
 <p align="left">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=155A9A8E7EDCAF4E40160FDF7F9C788297F72231A0DF0F42D71CC3BFCD0A4A28">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=155A9A8E7EDCAF4E40160FDF7F9C788297F72231A0DF0F42D71CC3BFCD0A4A28" target="_blank">
     Oracle Data Platform 2025 Certified Foundations Associate
   </a>
 </p>
 
 <p align="left">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=726660A11463A25993D0936E433842093093B7C74D4CFD0E90F6B2E4EF4C7298">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=726660A11463A25993D0936E433842093093B7C74D4CFD0E90F6B2E4EF4C7298" target="_blank">
     Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
   </a>
 </p>
 
 ###
 
+<h2 align="left">Skill Sets</h2>
+
+<p align="left">
+  <strong>Programming:</strong> Java, JavaScript, Python<br>
+  <strong>Databases:</strong> MySQL<br>
+  <strong>Tools:</strong> Node.js, HTML, CSS
+</p>
+
+###
+
 <h2 align="left">Projects</h2>
 
+<p align="left">
+  <!-- Add your projects here -->
+</p>
 
+###
 
 <h2 align="left">Tech Stack</h2>
 
@@ -93,30 +104,25 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Contact</h2>
 
 <p align="left">
-  <a href="">
-    New Era University Library logger
-  </a>
+  📧 Email: jasteen.de.gala@gmail.com<br>
+  🔗 LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Your LinkedIn Profile</a>
 </p>
 
 ###
 
 <div align="left">
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Google" />
+    <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Email" />
+  </a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn" />
   </a>
   <img width="12" />
   <a href="https://discord.com" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord" />
-  </a>
-  <img width="12" />
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
-  </a>
-  <img width="12" />
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
 </div>
