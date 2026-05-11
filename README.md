@@ -119,8 +119,8 @@
   </a>
   <img width="12" />
   <a href="https://linkedin.com/in/edward-jasteen-de-gala-47b5ba40a" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="40" alt="LinkedIn" />
+</a>
   <img width="12" />
   <a href="https://discord.com" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord" />
