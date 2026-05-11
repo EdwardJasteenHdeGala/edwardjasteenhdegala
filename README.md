@@ -108,17 +108,17 @@
 
 <p align="left">
   📧 Email: jasteen.de.gala@gmail.com<br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Your LinkedIn Profile</a>
+  🔗 LinkedIn: <a href="https://linkedin.com/in/edward-jasteen-de-gala-47b5ba40a" target="_blank">My LinkedIn Profile</a>
 </p>
 
 ###
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:jasteen.de.gala@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Email" />
   </a>
   <img width="12" />
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/edward-jasteen-de-gala-47b5ba40a" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn" />
   </a>
   <img width="12" />
